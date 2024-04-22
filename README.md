@@ -8,29 +8,29 @@
 武神传说Mud：
 [http://www.wamud.com/](http://www.wamud.com/)
 
-wsmud 单开:
+wsmud 单开：
 [http://mush.fun](http://mush.fun)
 
-wsmud 多开:
+wsmud 多开：
 [http://wsmud.aize.org/](http://wsmud.aize.org/)
 
 ### 需要先按顺序安装以下插件：
 
-wsmud_pluginss:
+wsmud_pluginss：
 [https://greasyfork.org/zh-CN/scripts/371372-wsmud-pluginss](https://greasyfork.org/zh-CN/scripts/371372-wsmud-pluginss)
 
-wsmud-Raid:
+wsmud-Raid：
 [https://greasyfork.org/zh-CN/scripts/375851-wsmud-raid](https://greasyfork.org/zh-CN/scripts/375851-wsmud-raid)
 
-wsmud-Trigger:
+wsmud-Trigger：
 [https://greasyfork.org/zh-CN/scripts/378984-wsmud-trigger](https://greasyfork.org/zh-CN/scripts/378984-wsmud-trigger)
 
 ### 其它辅助插件（非必需）：
 
-wsmud-funny:
+wsmud-funny：
 [https://greasyfork.org/zh-CN/scripts/441262-wsmud-funny2](https://greasyfork.org/zh-CN/scripts/441262-wsmud-funny2)
 
-wsmud_login:
+wsmud_login：
 [https://greasyfork.org/zh-CN/scripts/443214-wsmud-login1](https://greasyfork.org/zh-CN/scripts/443214-wsmud-login1)
 
 ## 鸣谢
