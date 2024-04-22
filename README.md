@@ -1,18 +1,18 @@
 # wsmud-script
 ## 简介
 
-武神传说是一款文字 MUD 游戏，为了能够快乐游(xian)戏(yu)，写了一些脚本，部分来自论坛[江湖客栈](http://wsmud.bobcn.me/)。
-
-如果你还没玩过这款游戏，可以尝试一下，如果方便，可以通过我的推广链接注册游戏：
-
-武神传说：
-[http://game.wsmud.com/e/191758](http://game.wsmud.com/e/191758)
+适用于半世逍遥的wsmud-script，基于mapleobserver版做出了一些改动。
 
 ## 使用
 
-带有 `.flow` 后缀的是流程，`.trigger` 后缀的是触发。
+武神传说Mud：
+[http://www.wamud.com/](http://www.wamud.com/)
 
-~~为了方便代码高亮，文件格式用了 `.lua`，可以直接用文本编辑器打开。~~
+wsmud 单开:
+[http://mush.fun](http://mush.fun)
+
+wsmud 多开:
+[http://wsmud.aize.org/](http://wsmud.aize.org/)
 
 ### 需要先按顺序安装以下插件：
 
@@ -27,33 +27,20 @@ wsmud-Trigger:
 
 ### 其它辅助插件（非必需）：
 
-以下两个插件功能上有所重叠，使用中建议只激活一个就好避免出现问题：
-
 wsmud-funny:
-[https://greasyfork.org/zh-CN/scripts/380709-wsmud-funny](https://greasyfork.org/zh-CN/scripts/380709-wsmud-funny)
+[https://greasyfork.org/zh-CN/scripts/441262-wsmud-funny2](https://greasyfork.org/zh-CN/scripts/441262-wsmud-funny2)
 
-wsmud-mo-simple:
-[https://greasyfork.org/zh-CN/scripts/394530-wsmud-mo-simple](https://greasyfork.org/zh-CN/scripts/394530-wsmud-mo-simple)
-
-### 配色插件（非必需）：
-
-该插件修改了游戏中的文字配色，Firefox 浏览器用户可以直接通过油猴脚本方式安装，Chrome、Edge、Kiwi 等浏览器用户建议先在浏览器扩展中安装 Stylus 扩展之后，以 *Install as user style* 方式安装。
-
-wsmud_flat_color:
-[https://greasyfork.org/zh-CN/scripts/394736-wsmud-flat-color](https://greasyfork.org/zh-CN/scripts/394736-wsmud-flat-color)
-
-另外有面向色盲、色弱群体玩家的配色方案：
-
-wsmud_accessibility_color:
-[https://greasyfork.org/zh-CN/scripts/395561-wsmud-accessibility-color](https://greasyfork.org/zh-CN/scripts/395561-wsmud-accessibility-color)
+wsmud_login:
+[https://greasyfork.org/zh-CN/scripts/443214-wsmud-login1](https://greasyfork.org/zh-CN/scripts/443214-wsmud-login1)
 
 ## 鸣谢
 
+- 流程仓库作者：mapleobserver
 - 插件作者：knva、Raid、苏轻
 - 论坛上的大佬们
 - 游戏中的大佬们
 
 ## 其它
 
-如果平常访问 Github 比较吃力，可以访问国内 Gitee 镜像仓库：
+如果平常访问 Github 比较吃力，可以访问mapleobserver的国内Gitee镜像仓库：
 [https://gitee.com/mapleobserver/wsmud-script](https://gitee.com/mapleobserver/wsmud-script)
